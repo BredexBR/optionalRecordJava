@@ -46,7 +46,7 @@ Este projeto tem como objetivo explorar o uso do Optional para evitar null, util
 
 3. Melhora a legibilidade e obriga o desenvolvedor a lidar com a ausência do dado, ou seja, menos bugs.
 
-Encontra-se um exemplo no arquivo: `src/main/Main.java`
+Encontra-se um exemplo no arquivo: [`src/main/Main.java`](https://github.com/BredexBR/optionalRecordJava/blob/main/src/main/Main.java)
 
 ![Optional main](imgs/optional.png)
 
@@ -72,7 +72,7 @@ Os records são uma novidade introduzida no Java 14, que proporcionam uma forma 
 
 - A classe vai passar por mudanças frequentes em sua estrutura de dados.
 
-Encontra-se um exemplo no arquivo: `src/domain/entities/User.java` e `src/domain/entities/UserDTO.java` 
+Encontra-se um exemplo no arquivo: [`src/domain/entities/User.java`](https://github.com/BredexBR/optionalRecordJava/blob/main/src/domain/entities/User.java) e [`src/domain/entities/UserDTO.java`](https://github.com/BredexBR/optionalRecordJava/blob/main/src/domain/entities/UserDTO.java) 
 
 ![Optional main](imgs/record.png)
 
